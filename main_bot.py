@@ -1,7 +1,7 @@
 import requests
 import subprocess
 import os
-
+from telegram_token import TOKEN
 
 # Получение текущего пути
 current_path = os.path.dirname(os.path.abspath(__file__))
@@ -13,7 +13,6 @@ driver_list_path = os.path.join(current_path, 'driver_list.py')
 image_path = 'media/pic/1.webp'
 
 # token/ID бота и чата в Telegram
-TOKEN = "6029533667:AAESfwGE5APr2pQ9-wwMuNGy0uiughLY5lk"
 url = f"https://api.telegram.org/bot{TOKEN}/getUpdates"
 chat_id = "-1001983169778"
 print(requests.get(url).json())
