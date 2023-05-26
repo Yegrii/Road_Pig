@@ -10,7 +10,7 @@ current_path = os.path.dirname(os.path.abspath(__file__))
 driver_list_path = os.path.join(current_path, 'driver_list.py')
 
 # Путь к файлу с изображением
-image_path = 'media/pic/1.webp'
+image_path = 'media/driver/1.webp'
 
 # token/ID бота и чата в Telegram
 url = f"https://api.telegram.org/bot{TOKEN}/getUpdates"
