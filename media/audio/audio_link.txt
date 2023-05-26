@@ -1,0 +1,5 @@
+# Example of how to download F1 team radio audio files
+https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/TeamRadio/CARSAI01_55_20230507_194512.mp3
+CARSAI01_55_20230507_194512.mp3
+# Main URL
+https://livetiming.formula1.com/static/2023/2023-mm-dd_name_Grand_Prix/2023-mm-dd_Race/TeamRadio/audio_name.mp3

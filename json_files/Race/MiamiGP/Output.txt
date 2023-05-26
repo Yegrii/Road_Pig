@@ -1,0 +1,80 @@
+Sergio Perez 11
+Team: Red Bull Racing
+Best time: 1:30.560 on lap 57
+
+Fernando Alonso 14
+Team: Aston Martin
+Best time: 1:30.519 on lap 57
+
+Carlos Sainz 55
+Team: Ferrari
+Best time: 1:31.362 on lap 55
+
+Kevin Magnussen 20
+Team: Haas F1 Team
+Best time: 1:31.691 on lap 53
+
+Pierre Gasly 10
+Team: Alpine
+Best time: 1:31.971 on lap 55
+
+George Russell 63
+Team: Mercedes
+Best time: 1:31.015 on lap 57
+
+Charles Leclerc 16
+Team: Ferrari
+Best time: 1:31.434 on lap 57
+
+Esteban Ocon 31
+Team: Alpine
+Best time: 1:31.143 on lap 56
+
+Max Verstappen 1
+Team: Red Bull Racing
+Best time: 1:29.708 on lap 56
+
+Valtteri Bottas 77
+Team: Alfa Romeo
+Best time: 1:31.838 on lap 56
+
+Alexander Albon 23
+Team: Williams
+Best time: 1:31.852 on lap 55
+
+Nico Hulkenberg 27
+Team: Haas F1 Team
+Best time: 1:30.901 on lap 36
+
+Lewis Hamilton 44
+Team: Mercedes
+Best time: 1:30.669 on lap 57
+
+Guanyu Zhou 24
+Team: Alfa Romeo
+Best time: 1:31.736 on lap 56
+
+Nyck De Vries 21
+Team: AlphaTauri
+Best time: 1:31.562 on lap 57
+
+Lando Norris 4
+Team: McLaren
+Best time: 1:32.401 on lap 47
+
+Yuki Tsunoda 22
+Team: AlphaTauri
+Best time: 1:31.038 on lap 56
+
+Lance Stroll 18
+Team: Aston Martin
+Best time: 1:30.862 on lap 44
+
+Oscar Piastri 81
+Team: McLaren
+Best time: 1:32.006 on lap 56
+
+Logan Sargeant 2
+Team: Williams
+Best time: 1:32.384 on lap 50
+

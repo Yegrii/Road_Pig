@@ -1,0 +1,15 @@
+# Timing Data
+https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/TimingData.json
+https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/TimingStats.json
+
+# Race Control Messages
+https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/RaceControlMessages.json
+
+# Championship Prediction
+https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/ChampionshipPrediction.json
+
+# Driver List
+https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/DriverList.json
+
+# Main URL
+https://livetiming.formula1.com/static/2023/2023-mm-dd_name_Grand_Prix/2023-mm-dd_Race/file_name.json
