@@ -1,6 +1,18 @@
+Max Verstappen 1
+Team: Red Bull Racing
+Best time: 1:36.236 on lap 44
+
 Sergio Perez 11
 Team: Red Bull Racing
 Best time: 1:36.344 on lap 37
+
+Charles Leclerc 16
+Team: Ferrari
+Best time: 1:37.170 on lap 37
+
+Carlos Sainz 55
+Team: Ferrari
+Best time: 1:37.130 on lap 37
 
 Fernando Alonso 14
 Team: Aston Martin
@@ -10,9 +22,9 @@ George Russell 63
 Team: Mercedes
 Best time: 1:37.221 on lap 42
 
-Carlos Sainz 55
-Team: Ferrari
-Best time: 1:37.130 on lap 37
+Lewis Hamilton 44
+Team: Mercedes
+Best time: 1:36.546 on lap 36
 
 Lance Stroll 18
 Team: Aston Martin
@@ -22,41 +34,21 @@ Esteban Ocon 31
 Team: Alpine
 Best time: 1:36.797 on lap 34
 
-Lewis Hamilton 44
-Team: Mercedes
-Best time: 1:36.546 on lap 36
-
-Oscar Piastri 81
-Team: McLaren
-Best time: 1:40.691 on lap 3
-
-Pierre Gasly 10
-Team: Alpine
-Best time: 1:35.068 on lap 42
-
 Nico Hulkenberg 27
 Team: Haas F1 Team
 Best time: 1:36.616 on lap 42
 
-Guanyu Zhou 24
-Team: Alfa Romeo
-Best time: 1:33.996 on lap 56
-
-Charles Leclerc 16
-Team: Ferrari
-Best time: 1:37.170 on lap 37
-
-Kevin Magnussen 20
-Team: Haas F1 Team
-Best time: 1:36.471 on lap 42
+Lando Norris 4
+Team: McLaren
+Best time: 1:35.822 on lap 50
 
 Valtteri Bottas 77
 Team: Alfa Romeo
 Best time: 1:37.379 on lap 31
 
-Max Verstappen 1
-Team: Red Bull Racing
-Best time: 1:36.236 on lap 44
+Guanyu Zhou 24
+Team: Alfa Romeo
+Best time: 1:33.996 on lap 56
 
 Yuki Tsunoda 22
 Team: AlphaTauri
@@ -66,15 +58,23 @@ Alexander Albon 23
 Team: Williams
 Best time: 1:37.144 on lap 43
 
+Logan Sargeant 2
+Team: Williams
+Best time: 1:36.037 on lap 42
+
+Kevin Magnussen 20
+Team: Haas F1 Team
+Best time: 1:36.471 on lap 42
+
+Oscar Piastri 81
+Team: McLaren
+Best time: 1:40.691 on lap 3
+
 Nyck De Vries 21
 Team: AlphaTauri
 Best time: 1:37.709 on lap 30
 
-Lando Norris 4
-Team: McLaren
-Best time: 1:35.822 on lap 50
-
-Logan Sargeant 2
-Team: Williams
-Best time: 1:36.037 on lap 42
+Pierre Gasly 10
+Team: Alpine
+Best time: 1:35.068 on lap 42
 
